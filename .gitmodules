@@ -1,0 +1,3 @@
+[submodule "kancional"]
+	path = kancional
+	url = https://github.com/dstancl/kancional.git
