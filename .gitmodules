@@ -1,3 +1,6 @@
 [submodule "kancional"]
 	path = kancional
 	url = https://github.com/dstancl/kancional.git
+[submodule "modlitby"]
+	path = modlitby
+	url = https://github.com/dstancl/modlitby.git
